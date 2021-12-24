@@ -1,0 +1,14 @@
+.email_input{
+    border: none;
+    margin-top: 20px;
+    outline: none;
+}
+
+
+
+.submit_button{
+    padding: 10px;
+    color: #1b57ff;
+    border: none;
+    margin-top: 20px;
+}
